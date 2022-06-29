@@ -1,0 +1,26 @@
+@media screen {   
+    .register{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: linear-gradient(rgba(51, 224, 117, 0.781),rgb(41, 181, 236));
+}
+.field{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.papers{
+    padding: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: linear-gradient(to left, rgb(233, 58, 58),rgb(230, 44, 44));
+}
+.names{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    color: white;
+}
+}

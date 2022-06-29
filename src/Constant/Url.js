@@ -1,0 +1,1 @@
+export const Api_Url ='https://62aad072a62365888bcd4b87.mockapi.io/expo/user/';

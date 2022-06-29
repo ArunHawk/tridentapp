@@ -1,0 +1,38 @@
+@media screen {
+    .nav{
+        background-image: linear-gradient(to left,  rgb(98, 0, 255),rgb(20, 116, 180));
+        border: 1px solid blue;
+        padding: 20px;
+    
+}
+.navbar{
+    display: flex;
+    gap: 10px;
+    
+}
+.navList{
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+.navList>button{
+    background-color: #0071c2;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.contact{
+    font-weight: bold;
+    justify-content: center;
+    color: white;
+    background-color: #0071c2;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+}

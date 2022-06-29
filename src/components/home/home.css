@@ -1,0 +1,7 @@
+.homeContainer{
+    display: flex;
+    background-image: linear-gradient(to right,blue,pink);
+    color: white;
+    font-style: italic;
+    font-weight: 500;
+}

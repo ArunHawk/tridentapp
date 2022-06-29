@@ -1,0 +1,39 @@
+@media screen {
+    .home{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 1000px;
+        
+    }
+    .headbar{
+        height: 50px;
+        background-image: linear-gradient(to left,  rgb(98, 0, 255),rgb(20, 116, 180));
+        display: flex;
+        justify-content: center;
+    }
+    .headContainer{
+        margin-left: 20px;
+        width: 100%;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logo{
+        font-weight: 600;
+    }
+    .headButton{
+        margin-left: 20px;
+        border: none;
+        border-radius: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+        color: rgb(10, 68, 102);
+        background-color: rgb(231, 39, 71);
+        
+    }
+    .headItems{
+        margin-right: 20px;
+    }
+}

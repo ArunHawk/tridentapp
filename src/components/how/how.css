@@ -1,0 +1,19 @@
+.howhome{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.ivideo>iframe{
+    width: 800px;
+    height: 700px;
+}
+.para{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-weight: 400;
+    font-style: italic;
+}
