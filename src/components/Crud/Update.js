@@ -103,6 +103,7 @@ const Update = () => {
       </div>
       <Footer />
     </div>
+    
   );
 };
 
