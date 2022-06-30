@@ -20,7 +20,7 @@ const Login = () => {
       navigate("/product");
     } else {
       alert("Pls check the password and mail");
-    }
+    }   
   };
 
   return (
