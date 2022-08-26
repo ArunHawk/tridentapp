@@ -8,7 +8,7 @@
     }
     .headbar{
         height: 50px;
-        background-image: linear-gradient(to left,  rgb(98, 0, 255),rgb(20, 116, 180));
+        background-image: linear-gradient(to left,  rgb(238, 255, 0),rgb(20, 116, 180));
         display: flex;
         justify-content: center;
     }
